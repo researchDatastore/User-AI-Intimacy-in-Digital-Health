@@ -1,4 +1,4 @@
-# AI-user-Intimacy-in-Digital-Health
+# User-AI-Intimacy-in-Digital-Health
 
 This repository is created for an article submitted to the journal Social Science & Medicine.
 
